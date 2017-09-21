@@ -1,8 +1,8 @@
 {
-  "name": "elasticsearch-logstashforwarder",
-  "version": "0.1.1",
+  "name": "synalabs-logstashforwarder",
+  "version": "0.1.2",
   "source": "https://github.com/elastic/puppet-logstashforwarder",
-  "author": "elasticsearch",
+  "author": "synalabs",
   "license": "Apache-2.0",
   "summary": "Module for managing and configuring Logstash Forwarder",
   "description": "Module for managing and configuring Logstash Forwarder",
